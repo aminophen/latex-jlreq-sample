@@ -1,3 +1,6 @@
+*.log
+*.aux
+*.dvi
 etc0/
 ref/
 work/
